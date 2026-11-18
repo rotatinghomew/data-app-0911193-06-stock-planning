@@ -1,0 +1,5 @@
+station,date,period,item,available_minutes,stockout_minutes
+S01,2026-10-01,am,water,240,0
+S01,2026-10-02,am,water,180,60
+S02,2026-10-01,pm,meal,240,0
+S02,2026-10-02,pm,meal,0,0
